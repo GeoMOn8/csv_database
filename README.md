@@ -18,6 +18,7 @@ This script will automatically import CSV files to your postgres/postgis databas
 ## Worth mentioning
 
 I used SQL to convert double-pricision data-type to GEOM data-type in the Lat-lon columns.
+There is a .env file that is hidden.
 
 ## Requirements
 
